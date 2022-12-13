@@ -5,8 +5,8 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=saptarshisarkar20&label=Profile%20views&color=0e75b6&style=flat" alt="saptarshisarkar20" /> </p>
+<br/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=saptarshisarkar20&label=Profile%20views&color=red&style=plasti" alt="saptarshisarkar20" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saptarshisarkar20" alt="saptarshisarkar20" /></a> </p>
 
@@ -155,7 +155,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=saptarshisarkar20&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=saptarshisarkar20&color=ff69b4&style=for-the-badge" align="center" />
 </div>  
   
 
