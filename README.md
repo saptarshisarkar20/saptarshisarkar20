@@ -12,15 +12,15 @@
 
 - 🌱 I’m currently learning **ML & AI**
 
-- 👨‍💻 All of my projects are available at [saptarshi-personal.herokuapp.com](saptarshi-personal.herokuapp.com)
+- 👨‍💻 All of my projects are available at [saptarshis.vercel.app](saptarshis.vercel.app)
 
-- 📝 I regularly write articles on [https://ss-blogs.vercel.app](https://ss-blogs.vercel.app)
+- 📝 I regularly write articles on [ss-blogs.vercel.app](https://ss-blogs.vercel.app)
 
 - 💬 Ask me about **Latest Technologies**
 
 - 📫 How to reach me **iamssss@protonmail.com**
 
-- 📄 Know about my experiences [https://saptarshi-personal.herokuapp.com/about](https://saptarshi-personal.herokuapp.com/about)
+- 📄 Know about my experiences [saptarshis.vercel.app/about](https://saptarshis.vercel.app/about)
 
 - ⚡ Fun fact: I keep night shift swithed on at all times 
 
