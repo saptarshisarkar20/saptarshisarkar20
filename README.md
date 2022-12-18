@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **ML & AI**
 
-- 👨‍💻 All of my projects are available at [saptarshis.vercel.app](saptarshis.vercel.app)
+- 👨‍💻 All of my projects are available at [saptarshis.vercel.app](https://saptarshis.vercel.app)
 
 - 📝 I regularly write articles on [ss-blogs.vercel.app](https://ss-blogs.vercel.app)
 
