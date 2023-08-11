@@ -11,7 +11,11 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saptarshisarkar20" alt="saptarshisarkar20" /></a> </p>
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"  /></p>
 
-- 🌱 I’m currently learning **ML & AI**
+### 👨‍💻 &nbsp;About Me :
+
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+- 🌱 I’m interested in **ML & AI**
 
 - 👨‍💻 All of my projects are available at [saptarshis.vercel.app](https://saptarshis.vercel.app)
 
