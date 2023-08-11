@@ -2,13 +2,14 @@
 <h3 align="center">A Simple developer with supernatural power 😎</h3>
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 </div>  
   
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saptarshisarkar20&label=Profile%20views&color=red&style=plasti" alt="saptarshisarkar20" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saptarshisarkar20" alt="saptarshisarkar20" /></a> </p>
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"  /></p>
 
 - 🌱 I’m currently learning **ML & AI**
 
