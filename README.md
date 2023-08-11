@@ -29,7 +29,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - ⚡ Fun fact: I keep night shift swithed on at all times 
 
-<h3 align="center">Connect with me:</h3>
+### Connect with me:
 <p align="center">
 <a href="https://twitter.com/@iamss_ss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@iamss_ss" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saptarshi-sarkar-aa20781b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saptarshi-sarkar-aa20781b1/" height="30" width="40" /></a>
@@ -42,7 +42,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <a href="https://auth.geeksforgeeks.org/user/saptarshi2017cob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="saptarshi2017cob" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+### Languages and Tools:
 <p align="center"> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
