@@ -8,7 +8,7 @@
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saptarshisarkar20&label=Profile%20views&color=red&style=plasti" alt="saptarshisarkar20" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saptarshisarkar20" alt="saptarshisarkar20" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saptarshisarkar20&theme=onedark" alt="saptarshisarkar20" /></a> </p>
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"  /></p>
 
 ### 👨‍💻 &nbsp;About Me :
