@@ -120,15 +120,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <br/>  
 
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saptarshisarkar20&show_icons=true&locale=en&layout=compact" alt="saptarshisarkar20" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saptarshisarkar20&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="saptarshisarkar20" /></p>
 </div> 
   
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saptarshisarkar20&show_icons=true&locale=en" alt="saptarshisarkar20" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saptarshisarkar20&show_icons=true&locale=en&theme=gruvbox" alt="saptarshisarkar20" /></p>
 </div> 
   
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saptarshisarkar20&" alt="saptarshisarkar20" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saptarshisarkar20&theme=gruvbox-duo" alt="saptarshisarkar20" /></p>
 </div> 
 
 
